@@ -1,36 +1,24 @@
 # project-websitwe-sekolah
 
 ## halaman dasboard
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/login.png?raw=true)
+![alt text](https://github.com/VandyProject/project-website sekolah/blob/main/assets/img/web1.png?raw=true)
 
-## halaman home
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/home.png?raw=true)
+## halaman prestasi terbaru
+![alt text](https://github.com/VandyProject/project-website-sekolah/blob/main/assets/img/web2.png?raw=true)
 
-## halaman keranjang
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/keranjang.png?raw=true)
+## halaman tenaga pendidik
+![alt text](https://github.com/VandyProject/project-website-sekolah/blob/main/assets/img/web3.png?raw=true)
 
-## halaman checkout
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/checkout.png?raw=true)
+## halaman profil alumni
+![alt text](https://github.com/VandyProject/project-website-sekolah/blob/main/assets/img/web4.png?raw=true)
 
-## halamlan riwayat pembelian
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/riwayat.png?raw=true)
+## halamlan ekstrakulikuler
+![alt text](https://github.com/VandyProject/project-website-sekolah/blob/main/assets/img/web5.png?raw=true)
 
-## halaman profil pelanggan
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/profil.png?raw=true)
+## halaman galeri madarasah
+![alt text](https://github.com/VandyProject/project-website-sekolah/blob/main/assets/img/web6.png?raw=true)
 
-## halaman login admin
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/loginadmin.png?raw=true)
-
-## halaman produk admin
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/adminproduk.png?raw=true)
-
-## halaman pembelian admin
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/adminpembelian.png?raw=true)
-
-## halaman laporan pembelian admin
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/laporan.png?raw=true)
-
-## halaman daftar pelanggan
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/adminpelanggan.png?raw=true)
+## halaman contact
+![alt text](https://github.com/VandyProject/project-website-sekolah/blob/main/assets/img/web7.png?raw=true)
 
 ### info detail Email novandyfahrizalfanani@gmail.com
