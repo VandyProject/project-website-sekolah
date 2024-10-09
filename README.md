@@ -1,7 +1,7 @@
 # project-websitwe-sekolah
 
 ## halaman dasboard
-![alt text](https://github.com/VandyProject/project-website sekolah/blob/main/assets/img/web1.png?raw=true)
+![alt text](https://github.com/VandyProject/project-website-sekolah/blob/main/assets/img/web1.png?raw=true)
 
 ## halaman prestasi terbaru
 ![alt text](https://github.com/VandyProject/project-website-sekolah/blob/main/assets/img/web2.png?raw=true)
